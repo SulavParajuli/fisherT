@@ -1,0 +1,144 @@
+/* Removing user agent default styles */
+body, ul, li, a, h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+/* Resetting button styles  */
+button {
+    border: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+/* Header Styles */
+
+header {
+    background-color: #3b5998;
+    padding: 20px 0;
+}
+
+header .content {
+    display: flex;
+    align-items: center;
+}
+
+header button {
+    background-color: #42b72a;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 12px;
+    margin-left: 20px;
+}
+
+header img {
+    width: 150px;
+}
+
+/* Main Styles */
+
+main {
+    background: #e9ebee;
+    padding: 50px 0;
+}
+
+.login-form {
+    margin: 0 auto;
+    background: #ffffff;
+    width: 600px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.login-form h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin: 10px 0;
+    font-weight: 100;
+}
+
+.login-form a{
+    color: #385898;
+    font-size: 12px;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+form input, form button {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+form input {
+    margin: 5px 0;
+    padding: 8px;
+    border: 1px solid #e1e1e1;
+    height: 35px;
+    font-size: 14px;
+}
+
+form button {
+    background-color: #4267b2;
+    color: white;
+    padding: 14px;
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.create-account {
+    padding: 12px 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background: #42b72a;
+    margin: 10px 0;
+}
+
+form p{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #e1e1e1;
+    line-height: 0.1em;
+    margin: 16px 0 20px;
+}
+form p span { background:#fff; padding:0 10px; }
+
+
+/* Footer Styles */
+
+footer {
+    padding: 100px 0 20px 0;
+}
+
+footer ul li {
+    padding-right: 15px;
+    padding-bottom: 5px;
+    font-size: 14px;
+}
+
+footer ul li a{
+    color: #385898;
+    text-decoration: none;
+}
+
+.languages {
+    display: flex;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+}
