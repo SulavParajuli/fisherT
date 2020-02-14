@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/SulavParajuli/fisherT/master/logo.png)
+![fishert_logo](https://raw.githubusercontent.com/SulavParajuli/fisherT/master/logo.png)
 # fisherT
 
 NOTE:      Use only for Educational Purpose. Don't use this program to hack anyone.
@@ -21,4 +21,4 @@ Type the following command to create a clone:
         facebook-big          Facebook login clone page for PC victim.
         google                Google login clone page.
   
-  More will certainly comein upcoming versions.
+  More will certainly come in upcoming versions.
