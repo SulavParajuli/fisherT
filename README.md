@@ -20,5 +20,5 @@ Type the following command to create a clone:
         facebook-small        Facebook login clone page for smartphone victim.
         facebook-big          Facebook login clone page for PC victim.
         google                Google login clone page.
-  
+  After the phising is done successfully, the POST data i.e username and password gets stored in "<folder name to give>/cred/data.txt" where <folder name to give> is the folder name you gave while creating the clone.
   More will certainly come in upcoming versions.
